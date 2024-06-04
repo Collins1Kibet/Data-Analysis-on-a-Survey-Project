@@ -85,4 +85,4 @@ We welcome contributions! Please fork the repository and submit pull requests.
 
 #### Contact
 
-For any questions or suggestions, please open an issue or contact me at collinskibet000@gmail.com
+For any questions or suggestions, please open an issue or contact me at collins1kibet@gmail.com
