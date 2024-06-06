@@ -74,10 +74,6 @@ The notebook is structured as follows:
 6. **Statistical Analysis**: Hypothesis testing, correlation analysis, etc.
 7. **Conclusions**: Summary of findings and insights.
 
-#### Contributing
-
-We welcome contributions! Please fork the repository and submit pull requests.
-
 #### Acknowledgments
 
 - [Pandas](https://pandas.pydata.org/)
